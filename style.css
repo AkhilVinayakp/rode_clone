@@ -28,3 +28,20 @@
 	background-position: -230px;
 	background-size: 2200px;
 }
+
+.black_overlay_2:hover {
+	background: linear-gradient(12deg, rgba(29, 29, 29, 0.111), rgba(48, 48, 48, 0.768)), url('./imgs/img_b2.jpg');
+	background-size: cover;
+}
+.black_overlay_1:hover {
+	background: linear-gradient(12deg, rgba(29, 29, 29, 0.111), rgba(48, 48, 48, 0.768)), url('./imgs/img_b1.png');
+	background-size: cover;
+}
+.black_overlay_3:hover {
+	background: linear-gradient(12deg, rgba(29, 29, 29, 0.111), rgba(48, 48, 48, 0.768)), url('./imgs/img_b3.png');
+	background-size: cover;
+}
+.black_overlay_4:hover {
+	background: linear-gradient(12deg, rgba(29, 29, 29, 0.111), rgba(48, 48, 48, 0.768)), url('./imgs/img_b4.png');
+	background-size: cover;
+}
