@@ -1,1 +1,4 @@
 #ad9970 background general color
+
+width container
+for high: px-20

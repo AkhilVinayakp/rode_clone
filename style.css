@@ -1,0 +1,30 @@
+.arrow-mark::after{
+        border-bottom: 0;
+        border-left: .3em solid transparent;
+        border-right: .3em solid transparent;
+        border-top: .3em solid;
+        content: "";
+        display: inline-block;
+        margin-left: .255em;
+        vertical-align: .255em;
+}
+.nav-items {
+    font-size: .875em;
+}
+.btn::after  {
+	-moz-osx-font-smoothing: grayscale;
+	-webkit-font-smoothing: antialiased;
+	text-rendering: auto;
+	content: "˃";
+	display: inline-block;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 900;
+	margin-left: .4rem;
+	text-transform: capitalize;
+}
+
+.test {
+	background-position: -230px;
+	background-size: 2200px;
+}
